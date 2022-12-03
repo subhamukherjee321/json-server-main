@@ -1,13 +1,13 @@
 {
-  "blogs": [{ "id": 1, "title": "Hello World", "author": "Avinash Patel" }],
+  "blogs": [{ "id": 1, "title": "Hello World", "author": "Subha Mukherjee" }],
   "users": [
     {
       "id": 1,
-      "name": "Avinash Patel",
+      "name": "Subha Mukherjee",
       "phone": 1234567890,
-      "location": "katni",
-      "email": "avinash@gmail.com",
-      "password": "avinash1234@"
+      "location": "Raniganj",
+      "email": "subhamukheree@gmail.com",
+      "password": "subha1234@"
     }
   ],
   "movies": [
@@ -482,7 +482,7 @@
     {
       "id": 1,
       "title": "Blog 1",
-      "author": "Avinash Patel"
+      "author": "Subha Mukherjee"
     }
   ]
 }
