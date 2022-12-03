@@ -501,5 +501,8 @@
       "author": "Subha Mukherjee"
     }
   ],
-  "posts": [{ "id": 1, "title": "Post 1", "caption": "This is a Post 1" }]
+  "posts": [{ "id": 1, "title": "Post 1", "caption": "This is a Post 1" }],
+  "wishlist": [
+    
+  ]
 }
